@@ -23,14 +23,14 @@ repository               : "chaiguojing/chaiguojing.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "chaiguojing.png"
   name             : "Guojing Chai(柴国靖）"
   pronouns         : # example: "she/her"  
   bio              : "PeKing Unversity"
   location         : "Beijing,China"
   employer         : 
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "2210117101@stu.pku.edu.cn" 
 
   # Academic websites
   academia         : # URL
